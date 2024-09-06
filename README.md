@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-![Banner](https://github.com/Ocampo81/Ocampo81/blob/main/banner.png.webp)
-
 ¡Hola! Soy Kevin Ocampo, un programador apasionado por la tecnología 🚀<br> Con 27 años y originario de Colombia, estoy constantemente buscando nuevos desafíos que me permitan crecer y expandir mis habilidades. Me impulsa una enorme curiosidad por aprender y mejorar cada día, con un enfoque en sobresalir en todo lo que hago. Actualmente, estoy trabajando en mejorar un proyecto de manejador de stock, ampliando sus funcionalidades para optimizar la gestión de inventarios y ventas. Además, estoy enfocado en aprender lo necesario para desarrollar aplicaciones móviles, con el objetivo de ampliar mis habilidades y explorar nuevos horizontes en el mundo del desarrollo.<br><br> Mi meta es aportar valor a cada equipo y proyecto en el que participo, con el compromiso de seguir perfeccionándome en este apasionante mundo tecnológico. Estoy ansioso por ser parte de soluciones creativas y eficientes que impacten positivamente.<br><br> Si estás buscando un desarrollador con pasión, determinación y ganas de aprender, ¡me encantaría ser parte de tu próximo proyecto!
 
 
